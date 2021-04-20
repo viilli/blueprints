@@ -2,8 +2,11 @@
 blueprints for spaceflight simulator 
 ——————————
 
+
+READ THIS BEFORE USE! 
+
 Turorial:
-1. install Cx file explorer if you have android. install also Open Hub. 
+1. install Cx file explorer if you have android 11. install also Open Hub. 
 2. open and login to open hub. 
 3. go to Search tab and type my name to Search box. 
 4. Click my icon and then click 'repositorios'
@@ -13,3 +16,4 @@ Turorial:
 8. unpack file
 9. if you have android 11 you need use Cx file explorer but if you have android 10 or below you maybe not need use. 
 10. go and copy extacted file to android/data/com.stefMorojna.SpaceFlightSimulator. this can be in internal storage or sd card
+11. read README file that is inside blueprint folder before you use it. Delete it after reading! 
