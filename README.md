@@ -1,9 +1,6 @@
 # blueprints
-# ignore all logs *.2
 blueprints for spaceflight simulator 
 ——————————
-
-
 READ THIS BEFORE USE! 
 
 Turorial:
