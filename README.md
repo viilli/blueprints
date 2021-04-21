@@ -1,4 +1,5 @@
 # blueprints
+# ignore all logs *.2
 blueprints for spaceflight simulator 
 ——————————
 
