@@ -11,7 +11,7 @@ Turorial:
 2. open and login to open hub. 
 3. go to Search tab and type my name to Search box. 
 4. Click my icon and then click 'repositorios'
-5  Click 'blueprints' and go ro file tab. 
+5. Click 'blueprints' and go ro file tab. 
 6. press tree dots up right. 
 7. press download source (zip) 
 8. unpack file
