@@ -15,3 +15,5 @@ Turorial:
 9. if you have android 11 you need use Cx file explorer but if you have android 10 or below you maybe not need use. 
 10. go and copy extacted file to android/data/com.stefMorojna.SpaceFlightSimulator. this can be in internal storage or sd card
 11. read README file that is inside blueprint folder before you use it. Delete it after reading! 
+
+In blueprint README file you can see In which part I used it and if if video is coming or is it uploaded
